@@ -14,7 +14,7 @@ MySQL kullanılarak veritabanı oluşturulmuştur.
 
 ![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/anasayfa.png)
 
-![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/anasayfa2.png)
+![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/anasayfa_2.png)
 
 ## Satış Temsilcileri Ekranı :
 
