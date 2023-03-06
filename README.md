@@ -13,11 +13,13 @@ MySQL kullanılarak veritabanı oluşturulmuştur.
 ## Anasayfa :
 
 ![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/anasayfa.png)
+
 ![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/anasayfa2.png)
 
 ## Satış Temsilcileri Ekranı :
 
 ![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/satıs_tem1.png)
+
 ![alt text](https://github.com/ceyda-aydogan/satis_temsilcisi_verimliligi/blob/main/satıs_tem2.png)
 
 ## Maaş Ekranı :
